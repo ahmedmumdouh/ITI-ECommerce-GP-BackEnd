@@ -15,7 +15,7 @@ django-bootstrap4==2.0.1
 django-cors-headers==3.4.0
 django-filter==2.3.0
 django-phone-field==1.8.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 filelock==3.0.12
 Flask==1.1.2
 ipython==7.15.0
